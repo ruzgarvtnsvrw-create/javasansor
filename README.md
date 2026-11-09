@@ -1,0 +1,2 @@
+# javasansor
+çokda uğraşmadığım ödev
